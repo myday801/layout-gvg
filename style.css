@@ -79,15 +79,6 @@ html {
     width: 50%;
 }
 
-.discount-rate {
-    font-size: 4rem;
-}
-
-.rate {
-    font-size: 6rem;
-    font-weight: 500;
-}
-
 /* section - exclusive products */
 
 .section-subtitle {
@@ -179,7 +170,7 @@ html {
     /* top banner */
 
     .banner-bg {
-        height: 400px;
+        height: 320px;
         background: url("images/top-m.jpg") no-repeat center;
     }
 
@@ -211,6 +202,7 @@ html {
         align-items: center;
         width: 100%;
         height: 40rem;
+        background-size: cover;
     }
 
     .exhibition1 {
